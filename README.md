@@ -18,8 +18,11 @@
 - ⚡ Fun fact: **I once solved a coding problem while skydiving. Just kidding, but that would be impressive, right?**
 
 <h3 align="left">Connect with me:</h3>
+
+</p>
 <p align="left">
-<a href="www.linkedin.com/in/tusharborul45" target="_blank"><img align="center" alt="Tushar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tusharborul45" target="blank"><img align="center" src="linked-in-alt.svg" alt="adityapatilcodes" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
